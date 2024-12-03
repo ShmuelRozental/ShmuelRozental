@@ -28,6 +28,8 @@ Feel free to check out my projects and contributions or reach out if you want to
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
 
 ### Frameworks:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -41,4 +43,7 @@ Feel free to check out my projects and contributions or reach out if you want to
 ### Message Brokers:
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### Big Data Processing:
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E35A16?style=flat&logo=apachespark&logoColor=white)
 
